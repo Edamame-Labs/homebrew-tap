@@ -1,6 +1,6 @@
 cask "give-me-a-break" do
-  version "1.2.0"
-  sha256 "d582802dd7c5ccb69a03a77778cf742ebd8fbec8105231dad8785d1d645e88c7"
+  version "1.5.1"
+  sha256 "664181735f138eb520d833ba72d7780189697338b753d088f2f227415c997a97"
 
   url "https://github.com/jxucoder/give-me-a-break/releases/download/v#{version}/GiveMeABreak-#{version}.zip"
   name "Give Me A Break"
