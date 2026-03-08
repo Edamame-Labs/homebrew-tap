@@ -1,6 +1,6 @@
 cask "holdtotalk" do
-  version "1.0.2"
-  sha256 "3fc86261a7e54e803823980c33c84616bdcd63da7cb2fd77ef2e1e38772f120a"
+  version "1.0.4"
+  sha256 "717015b7c2b5a86f0a7e5889b39e61c5745c333980a62811f665437ca8f76f2a"
 
   url "https://github.com/jxucoder/holdtotalk/releases/download/v#{version}/HoldToTalk-v#{version}.zip"
   name "Hold to Talk"
