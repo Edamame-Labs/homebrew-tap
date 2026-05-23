@@ -1,13 +1,13 @@
 cask "holdtotalk" do
-  version "2.1.1"
-  sha256 "bd85f02a6d6cec785cb9052552030b4d8f00c87b3b912b80c952eef1e1defb10"
+  version "2.1.2"
+  sha256 "ae2e84820dc31c86520f3dea9845272a48bd3d4240101972239d588d70fab9bc"
 
-  url "https://github.com/jxucoder/holdtotalk/releases/download/v#{version}/HoldToTalk-v#{version}.zip"
+  url "https://github.com/jxucoder/hold-to-talk/releases/download/v#{version}/HoldToTalk-v#{version}.zip"
   name "Hold to Talk"
   desc "Free, open-source voice dictation for macOS"
-  homepage "https://github.com/jxucoder/holdtotalk"
+  homepage "https://github.com/jxucoder/hold-to-talk"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: ">= :sequoia"
 
   app "Hold To Talk.app"
 
