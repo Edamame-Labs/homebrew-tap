@@ -1,6 +1,6 @@
 cask "holdtotalk" do
-  version "2.1.5"
-  sha256 "b24ba394fc61b29360de45ac678823e4f2a5ee6870499ec005b215ce46d38634"
+  version "2.1.6"
+  sha256 "b57b8c7e02ea5cd22d0516ae5a7452089aa3d0765dd0fbde42d9d3a9e01eb4f3"
 
   url "https://github.com/Edamame-Labs/hold-to-talk/releases/download/v#{version}/HoldToTalk-v#{version}.zip"
   name "Hold to Talk"
